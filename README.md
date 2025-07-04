@@ -1,6 +1,6 @@
 # AlgoTrading_PortfolioOpt
 
-A collection of Jupyter Notebooks demonstrating quantitative trading strategies and portfolio optimization techniques.
+A collection of Jupyter Notebooks where I explore and experiment with quantitative trading strategies and portfolio optimization techniques.
 
 ## Contents
 
