@@ -4,7 +4,7 @@ A collection of Jupyter Notebooks where I explore and experiment with quantitati
 
 ## Contents
 
-- **01_intro.ipynb**: Project overview and setup.
+- **01_intro.ipynb**: Backtrader Hello World
 - **02_bollinger_bands.ipynb**: Technical analysis using Bollinger Bands.
 - **03_fama_french.ipynb**: Factor investing with the Fama-French model.
 - **04_portfolio_optimization.ipynb**: Mean-variance portfolio optimization and efficient frontier visualization.
