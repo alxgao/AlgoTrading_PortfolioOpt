@@ -6,15 +6,14 @@ A collection of Jupyter Notebooks where I explore and experiment with quantitati
 
 - **01_intro.ipynb**: Backtrader Hello World
 - **02_bollinger_bands.ipynb**: Technical analysis using Bollinger Bands.
-- **03_fama_french.ipynb**: Factor investing with the Fama-French model.
-- **04_portfolio_optimization.ipynb**: Mean-variance portfolio optimization and efficient frontier visualization.
+- **03_time_series_momentum.ipynb**: Time-series momentum strategies.
+- **04_fama_french.ipynb**: Factor investing with the Fama-French model.
 - **05_statistical_arbitrage.ipynb**: Statistical arbitrage strategies.
-- **06_time_series_momentum.ipynb**: Time-series momentum strategies.
-- **07_momentum_strategy.ipynb**: Cross-sectional momentum analysis.
+- **06_portfolio_optimization.ipynb**: Mean-variance portfolio optimization and efficient frontier visualization.
 
-## Data
+## Highlights
 
-- `data/momentum_constituents.csv`: Example dataset for momentum strategies.
+- Achieved Sharpe Ratio of 3.88 in backtesting on unseen data
 
 ## Technologies
 
