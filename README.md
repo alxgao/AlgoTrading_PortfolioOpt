@@ -18,14 +18,4 @@ A collection of Jupyter Notebooks where I explore and experiment with quantitati
 
 ## Technologies
 
-- Python, Jupyter Notebook, pandas, numpy, matplotlib, scipy
-
-## Usage
-
-Clone the repo and open the notebooks in Jupyter Lab or Jupyter Notebook.
-
-```bash
-git clone https://github.com/alxgao/AlgoTrading_PortfolioOpt.git
-cd AlgoTrading_PortfolioOpt
-jupyter lab
-``` 
+- Python, Backtrader, yfinance, pandas, numpy, matplotlib, scipy
